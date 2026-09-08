@@ -1,0 +1,6 @@
+{
+  "name": "Belmont Stats",
+  "description": "The official varsity sports statistics and competitive analysis platform for the Belmont High School Marauders, run by the Belmont Varsity Stats Club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
